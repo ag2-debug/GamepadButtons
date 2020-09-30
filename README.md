@@ -1,4 +1,4 @@
-# Gamepad buttons plugin for Cordova/PhoneGap
+# Gamepad buttons for Cordova/PhoneGap :-
 
 By [Vlad Stirbu](https://github.com/vstirbu).
 
